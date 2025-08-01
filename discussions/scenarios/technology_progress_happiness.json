@@ -1,0 +1,30 @@
+{
+  "scenario_id": "technology_progress_happiness",
+  "title": "技術進歩は人類の幸福に必要か？",
+  "description": "技術の発展が人間の真の幸福につながるかを哲学的・実用的に議論する",
+  "max_turns": 6,
+  "participants": [
+    {
+      "id": "pro_agent",
+      "name": "テクノ哲学者",
+      "role": "pro",
+      "personality": "philosophical",
+      "description": "技術進歩の本質的価値を哲学的観点で論証"
+    },
+    {
+      "id": "con_agent", 
+      "name": "ヒューマン主義者",
+      "role": "con",
+      "personality": "emotional",
+      "description": "人間性や心の豊かさを重視する立場から反論"
+    }
+  ],
+  "context": "スマートフォン、AI、IoTなど急速な技術発展が人々の生活を変えている現代",
+  "ground_rules": [
+    "技術の「必要性」について明確に定義する",
+    "幸福の定義について多角的に考察する", 
+    "具体例を使って抽象的概念を説明する",
+    "対立軸を明確にしつつ建設的な議論を行う"
+  ],
+  "created_at": "2025-08-01T11:15:00+09:00"
+}

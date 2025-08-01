@@ -1,0 +1,30 @@
+{
+  "scenario_id": "traditional_values_modern_society",
+  "title": "伝統的価値観の現代社会での意義",
+  "description": "グローバル化・多様化が進む現代社会において伝統的価値観が持つ役割と意味を探る",
+  "max_turns": 6,
+  "participants": [
+    {
+      "id": "pro_agent",
+      "name": "文化継承者",
+      "role": "pro",
+      "personality": "emotional",
+      "description": "伝統の大切さを人間の体験と感情を通じて表現"
+    },
+    {
+      "id": "con_agent", 
+      "name": "革新思想家",
+      "role": "con",
+      "personality": "philosophical",
+      "description": "固定観念への疑問と新しい価値創造の必要性を哲学的に論証"
+    }
+  ],
+  "context": "少子高齢化、国際化、LGBT+理解、働き方改革など社会変化が激しい現代日本",
+  "ground_rules": [
+    "「伝統的価値観」の具体的内容を明確にする",
+    "文化相対主義的視点を考慮する", 
+    "世代間・地域間の多様性を認識する",
+    "変化と継承の両方の価値を尊重する"
+  ],
+  "created_at": "2025-08-01T11:25:00+09:00"
+}

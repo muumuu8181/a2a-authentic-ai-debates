@@ -1,0 +1,30 @@
+{
+  "scenario_id": "freedom_vs_security",
+  "title": "個人の自由と社会の安全のバランス",
+  "description": "監視社会化が進む中で個人の自由と集団の安全をどう両立させるかを議論",
+  "max_turns": 8,
+  "participants": [
+    {
+      "id": "pro_agent",
+      "name": "セキュリティ論理派",
+      "role": "pro",
+      "personality": "logical",
+      "description": "データと論理で安全性優先の必要性を主張"
+    },
+    {
+      "id": "con_agent", 
+      "name": "自由哲学派",
+      "role": "con",
+      "personality": "philosophical",
+      "description": "自由の本質的価値と意義を哲学的に論証"
+    }
+  ],
+  "context": "コロナ対策、テロ対策、AI監視システムなど安全のための自由制限が議論される現代社会",
+  "ground_rules": [
+    "自由と安全の定義を明確にする",
+    "具体的な事例や施策を挙げて議論する", 
+    "短期的・長期的な両方の視点を考慮する",
+    "理想論と現実論のバランスを取る"
+  ],
+  "created_at": "2025-08-01T11:20:00+09:00"
+}

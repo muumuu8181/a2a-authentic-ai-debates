@@ -1,0 +1,16 @@
+{
+  "session_id": "fa0283dd-b45c-4ddd-8d8d-da2d405233c4",
+  "topic": "AIは人類の味方か？",
+  "participants": [
+    {
+      "id": "agent_a_logical",
+      "name": "テクノ楽観主義者",
+      "role": "pro"
+    },
+    {
+      "id": "agent_b_emotional",
+      "name": "ヒューマン擁護者",
+      "role": "con"
+    }
+  ],
+  "status": 

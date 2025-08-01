@@ -1,0 +1,32 @@
+男性の名前リスト（プログラマー向け）
+
+【クラシック】
+・ボブ (Bob)
+・チャーリー (Charlie)
+・デーヴ (Dave)
+・アラン (Alan)
+・デニス (Dennis)
+
+【モダン】
+・オリバー (Oliver)
+・ジェームズ (James)
+・マックス (Max)
+・ジャック (Jack)
+・イーサン (Ethan)
+・ノア (Noah)
+・リアム (Liam)
+・フェリックス (Felix)
+
+【プログラミング界の偉人】
+・アラン (Alan Turing)
+・デニス (Dennis Ritchie)
+・リナス (Linus Torvalds)
+・ティム (Tim Berners-Lee)
+
+【その他】
+・サム (Sam)
+・ベン (Ben)
+・トム (Tom)
+・アレックス (Alex)
+・ライアン (Ryan)
+・マイク (Mike)

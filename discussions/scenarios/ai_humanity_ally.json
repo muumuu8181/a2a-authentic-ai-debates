@@ -1,0 +1,30 @@
+{
+  "scenario_id": "ai_humanity_ally",
+  "title": "AIは人類の味方か？",
+  "description": "AI技術の発展が人類にとって有益か有害かを議論する",
+  "max_turns": 6,
+  "participants": [
+    {
+      "id": "pro_agent",
+      "name": "テクノ楽観主義者",
+      "role": "pro",
+      "personality": "logical",
+      "description": "AI技術の利益を論理的データで論証"
+    },
+    {
+      "id": "con_agent", 
+      "name": "ヒューマン擁護者",
+      "role": "con",
+      "personality": "emotional",
+      "description": "人間への影響を感情的観点で懸念"
+    }
+  ],
+  "context": "現在のAI技術（ChatGPT、Gemini等）の急速な発展を背景とした議論",
+  "ground_rules": [
+    "相手の人格攻撃は禁止",
+    "根拠のある議論を心がける", 
+    "建設的な議論を目指す",
+    "最終的には合意点を見つける努力をする"
+  ],
+  "created_at": "2025-08-01T10:55:00+09:00"
+}
